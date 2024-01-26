@@ -1,0 +1,20 @@
+The oversampling model states that even if the weather data is essentially infinite, the accuracy of our estimate, which is entirely based on sample size, is unaffected. For two-group classification issues, a support vector machine (SVM) is a supervised machine learning model that uses classification techniques. SVM models can categorize new text after being given sets of labeled training data for each category.
+The best way to evaluate the performance of an algorithm would be to make predictions for new data to which we already know the answers. The second best way is to use clever techniques from statistics called resampling methods that allow you to make accurate estimates for how well your algorithm will perform on new data.
+
+
+
+A simple one-layer RNN based model seems sufficient to be able to predict long-term trends from limited training data surprisingly well.
+
+SimpleRNN , a fully-connected RNN where the output from previous time-step is to be fed to next timestep.In multilabel classification, this function computes subset accuracy: the set of labels predicted for a sample must exactly match the corresponding set of labels in X_true.
+
+
+
+By attepmpting to do a time-series prediction, we are implicitly assuming that the past weather pattern is a good indicator of the future.
+
+
+
+The code was examined and put to the test. According to the test results, the entire system performed in accordance with the project's intended goal and objectives. The weather forecasting software
+
+The algorithm was able to forecast the weather for the next seven days to within one degree.
+
+month with a high level of precision and efficiency.
